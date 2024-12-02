@@ -230,13 +230,13 @@ onMounted(() => {
               id="titleHero"
               class="baron z-[1] cursor-text self-end overflow-hidden text-center text-[8.7vw] leading-tight sm:text-[7vw] xl:text-[calc((7px_*_1200)_/_100)]"
             >
-              BenJAmin oddou
+              Soumyasidh Nikul
             </div>
             <div
               id="subtitleHero"
               class="z-[1] cursor-text self-start overflow-hidden text-center text-[5.3vw] font-thin leading-none text-dark-lavender dark:text-dark-orange sm:text-[3.6vw] xl:text-[calc((3.6px_*_1200)_/_100)]"
             >
-              PHOTOGRAPHE
+              PHOTOGRAPHER
             </div>
           </div>
           <div
@@ -252,7 +252,7 @@ onMounted(() => {
             id="call-text"
             class="absolute left-[70%] top-2/3 z-20 hidden w-1/5 max-w-[12rem] gap-2 sm:grid md:left-3/4 lt:top-1/2"
           >
-            <span class="hidden cursor-text font-bold lt:block">Réservation disponible !</span>
+            <span class="hidden cursor-text font-bold lt:block">Book a shoot!</span>
             <span class="hidden cursor-text text-[0.9rem] lt:block">Veuillez remplir le formulaire en bas tout en précisant le type
               de réservation.</span>
             <span class="mx-0 my-2 hidden w-2/5 border-t-4 lt:block" />
